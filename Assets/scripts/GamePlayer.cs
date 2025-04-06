@@ -59,6 +59,9 @@ public class GamePlayer : MonoBehaviour
         }
 
         Destroy(other.gameObject);
+
+        // Destroy ÆÄ±«
+        // Instantiate »ý¼º
     }
 
 }
